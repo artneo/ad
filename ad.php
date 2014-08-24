@@ -19,6 +19,13 @@ while ($x++<10) {
 	$t='';
 				}
 
-print_r($aa);
+$x=-1;
+while ($x++<10) {
+if ($x==5) break;
+echo "<br><br>";
+print $aa[$x];
+}
+
+
 
 ?>

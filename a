@@ -1,0 +1,42 @@
+name=titl&txt=text&phone=phon&contact=name&email=mail&cat_id=16&captcha%5Bid%5D=2559abf76a841a093623845173159871&captcha%5Binput%5D=&id=&save=%D0%A1%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C
+
+
+Remote Address:5.9.10.240:80
+Request URL:http://www.0432.ua/doska/add
+Request Method:POST
+Status Code:200 OK
+Request Headersview source
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4,de;q=0.2
+Cache-Control:no-cache
+Connection:keep-alive
+Content-Length:196
+Content-Type:application/x-www-form-urlencoded
+Cookie:PHPSESSID=hhvsnjtsg1ld82sffa7gc9bch1; socialpopupnew=0%7C1%7C1408813883411; __utma=68001552.1147559985.1408813876.1408877408.1408879699.6; __utmb=68001552.19.10.1408879699; __utmc=68001552; __utmz=68001552.1408813876.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Host:www.0432.ua
+Origin:http://www.0432.ua
+Pragma:no-cache
+Referer:http://www.0432.ua/doska/add
+User-Agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+Form Dataview sourceview URL encoded
+name:titl
+txt:text
+phone:phon
+contact:name
+email:mail
+cat_id:16
+captcha[id]:2559abf76a841a093623845173159871
+captcha[input]:
+id:
+save:Сохранить
+Response Headersview source
+Cache-Control:no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection:keep-alive
+Content-Encoding:gzip
+Content-Type:text/html; charset=utf-8
+Date:Sun, 24 Aug 2014 12:41:00 GMT
+Expires:Thu, 19 Nov 1981 08:52:00 GMT
+Pragma:no-cache
+Server:nginx
+Transfer-Encoding:chunked
